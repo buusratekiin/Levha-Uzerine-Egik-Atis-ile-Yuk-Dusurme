@@ -1,6 +1,6 @@
 ![image](https://github.com/buusratekiin/Levha-Uzerine-Egik-Atis-ile-Yuk-Dusurme/assets/88576734/ef0606a8-2edb-4a2d-a6ee-8c0fa52df8dd)
 Yüzey olarak oluşturduğum levhanın vtk dosyası:
-# vtk DataFile Version 3.0
+vtk DataFile Version 3.0
 Electric field of Residues
 ASCII
 DATASET STRUCTURED_POINTS
@@ -12,9 +12,12 @@ SCALARS ealan float
 LOOKUP_TABLE default
 Yükün düştüğü nokta z ve x ekseninde olacağı için  y eksenine 1 verdim ve levha 2 boyutlu oldu.  Alanının 640000 olmasını ve kare bir levha olmasını istedim. Bunun için x ve z eksenlerine aynı sayıyı verdim. Origin noktasını atışın düşeceği yere göre ayarladım. 
 ![image](https://github.com/buusratekiin/Levha-Uzerine-Egik-Atis-ile-Yuk-Dusurme/assets/88576734/46d01941-cef5-48a5-a2ed-47a2ac22df2a)
+
 Elektrik alanda düştüğü yerde kırmızı renk oranı artmaktadır. Glyph modunda açtığımız zamanki görüntüsü:
 ![image](https://github.com/buusratekiin/Levha-Uzerine-Egik-Atis-ile-Yuk-Dusurme/assets/88576734/d4f24596-f262-4a34-a421-a4a5c8a8b90e)
+
 Atışı ve levhayı aynı anda görüntüleyebilmek için aynı zamanda çalıştırdım ve  levhayı da Glyph de çalıştırdım:
+
 Son olarak atış için animasyonu çalıştırdığımda verilerden oluşan görsel:
 
 Vilk(hızı)=500
