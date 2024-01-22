@@ -1,4 +1,5 @@
 ![image](https://github.com/buusratekiin/Levha-Uzerine-Egik-Atis-ile-Yuk-Dusurme/assets/88576734/ef0606a8-2edb-4a2d-a6ee-8c0fa52df8dd)
+
 Yüzey olarak oluşturduğum levhanın vtk dosyası:
 vtk DataFile Version 3.0
 Electric field of Residues
